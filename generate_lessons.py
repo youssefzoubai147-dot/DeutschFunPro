@@ -1,0 +1,148 @@
+import json
+
+lessons = [
+    {
+        "id": 1,
+        "title": "Personalpronomen und Konjugation",
+        "title_ar": "الضمائر الشخصية وتصريف الأفعال النظامية",
+        "level": "A1",
+        "explanation": "تتغير نهايات الأفعال في الألمانية حسب الضمير: ich (-e), du (-st), er/sie/es (-t), wir (-en), ihr (-t), sie/Sie (-en).",
+        "examples": [
+            {"de": "Ich lerne Deutsch.", "ar": "أنا أتعلم الألمانية."},
+            {"de": "Du wohnst in Berlin.", "ar": "أنت تسكن في برلين."}
+        ],
+        "quiz": [
+            {"question": "Was passt: Ich ____ Deutsch.", "options": ["lerne", "lernst", "lernt", "lernen"], "answer": "lerne"}
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Bestimmter und Unbestimmter Artikel",
+        "title_ar": "أدوات التعريف والنكرة والنفي",
+        "level": "A1",
+        "explanation": "لكل اسم جنس: der (مذكر), die (مؤنث), das (محايد). أدوات النكرة: ein / eine. أدوات النفي: kein / keine.",
+        "examples": [
+            {"de": "Das ist ein Mann. Der Mann ist nett.", "ar": "هذا رجل. الرجل لطيف."},
+            {"de": "Ich habe keinen Apfel.", "ar": "ليس لدي تفاحة."}
+        ],
+        "quiz": [
+            {"question": "Welcher Artikel passt für 'Frau'?", "options": ["der", "die", "das", "ein"], "answer": "die"}
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Verb 'sein' und 'haben'",
+        "title_ar": "أهم فعلين في الألمانية: يكون ويمتلك",
+        "level": "A1",
+        "explanation": "فعلان شاذان أساسيان:\n- sein: ich bin, du bist, er ist, wir sind, ihr seid, sie sind.\n- haben: ich habe, du hast, er hat, wir haben, ihr habt, sie haben.",
+        "examples": [
+            {"de": "Ich bin Youssef.", "ar": "أنا يوسف."},
+            {"de": "Wir haben Zeit.", "ar": "لدينا وقت."}
+        ],
+        "quiz": [
+            {"question": "Er ____ ein Auto.", "options": ["hat", "hast", "ist", "bin"], "answer": "hat"}
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Akkusativ (حالة النصب)",
+        "title_ar": "المفعول به في اللغة الألمانية",
+        "level": "A1",
+        "explanation": "في حالة Akkusativ تتغير أداة المذكر فقط: der تتغير إلى den / ein تتغير إلى einen / kein تتغير إلى keinen. أما die و das فلا تتغير.",
+        "examples": [
+            {"de": "Ich kaufe den Kaffee.", "ar": "أنا أشتري القهوة."},
+            {"de": "Er isst einen Apfel.", "ar": "هو يأكل تفاحة."}
+        ],
+        "quiz": [
+            {"question": "Ich sehe ____ Mann (der Mann).", "options": ["den", "der", "das", "dem"], "answer": "den"}
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Modalverben (الأفعال الناقصة)",
+        "title_ar": "أفعال القدرة والرغبة والالتزام (können, wollen, müssen)",
+        "level": "A1",
+        "explanation": "الأفعال الناقصة تأتي في المركز الثاني من الجملة وتضع الفعل الأساسي في المصدر بنهاية الجملة.\nkönnen (يستطيع), wollen (يريد), müssen (يجب).",
+        "examples": [
+            {"de": "Ich kann Deutsch sprechen.", "ar": "أستطيع تحدث الألمانية."},
+            {"de": "Wir müssen lernen.", "ar": "يجب علينا أن نتعلم."}
+        ],
+        "quiz": [
+            {"question": "Ich ____ morgen arbeiten.", "options": ["muss", "müsst", "müssen", "müssten"], "answer": "muss"}
+        ]
+    },
+    {
+        "id": 6,
+        "title": "W-Fragen und Ja/Nein-Fragen",
+        "title_ar": "صياغة الأسئلة في الألمانية",
+        "level": "A1",
+        "explanation": "1. أسئلة أداة الاستفهام (W-Fragen): أداة الاستفهام + الفعل في المركز الثاني (مثل: Wo wohnst du?).\n2. أسئلة نعم/لا: تبدأ بالفعل في المركز الأول (مثل: Kommst du aus Marokko?).",
+        "examples": [
+            {"de": "Wie heißt du?", "ar": "ما اسمك؟"},
+            {"de": "Trinkst du Kaffee?", "ar": "هل تشرب القهوة؟"}
+        ],
+        "quiz": [
+            {"question": "____ wohnst du? - In Berlin.", "options": ["Wo", "Was", "Wer", "Wie"], "answer": "Wo"}
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Possessivartikel (أدوات الملكية)",
+        "title_ar": "التعبير عن الملكية (mein, dein, sein, ihr...)",
+        "level": "A1",
+        "explanation": "تستخدم للتعبير عن الملكية:\n- mein / meine (لي / خاصتي)\n- dein / deine (لك / خاصتك)\n- sein / ihr (له / لها)\nتأخذ النهاية -e مع الأسماء المؤنثة والجمع.",
+        "examples": [
+            {"de": "Das ist mein Vater und das ist meine Mutter.", "ar": "هذا أبي وهذه أمي."}
+        ],
+        "quiz": [
+            {"question": "Das ist ____ Buch (das Buch - لي).", "options": ["mein", "meine", "meinen", "meiner"], "answer": "mein"}
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Imperativ (صيغة الأمر)",
+        "title_ar": "إعطاء الأوامر والتعليمات",
+        "level": "A1",
+        "explanation": "صيغ الأمر الأساسية:\n- مع du: نحذف الضمير والنهاية (st) -> Lern!\n- مع ihr: نفس تصريف ihr بدون الضمير -> Lernt!\n- مع Sie (احترام): الفعل + Sie -> Lernen Sie!",
+        "examples": [
+            {"de": "Trink das Wasser!", "ar": "اشرب الماء!"},
+            {"de": "Sprechen Sie bitte langsam!", "ar": "تحدث ببطء من فضلك!"}
+        ],
+        "quiz": [
+            {"question": "صيغة الأمر من (kommen) مع (du):", "options": ["Komm!", "Kommst!", "Kommen!", "Kommt!"], "answer": "Komm!"}
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Präpositionen mit Akkusativ (حروف الجر مع النصب)",
+        "title_ar": "حروف الجر التي تأخذ Akkusativ دائماً",
+        "level": "A1",
+        "explanation": "حروف الجر التالية تأخذ دائماً حالة Akkusativ بعدها:\nfür (لأجل), durch (عبر/من خلال), gegen (ضد/حوالي), ohne (بدون), um (حول/في تمام).",
+        "examples": [
+            {"de": "Das Geschenk ist für den Vater.", "ar": "الهدية للأب."},
+            {"de": "Ich trinke Kaffee ohne Zucker.", "ar": "أنا أشرب القهوة بدون سكر."}
+        ],
+        "quiz": [
+            {"question": "Ich komme ohne ____ Freund (der Freund).", "options": ["meinen", "mein", "meiner", "meinem"], "answer": "meinen"}
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Perfekt mit haben und sein (الماضي التام)",
+        "title_ar": "التحدث عن الماضي في الحياة اليومية",
+        "level": "A1",
+        "explanation": "يتكون الماضي التام من:\nفعل مساعد (haben أو sein) في المركز الثاني + اسم المفعول (Partizip II) في نهاية الجملة.\nنستخدم sein مع أفعال الحركة والانتقال (مثل: gehen, fahren, kommen).",
+        "examples": [
+            {"de": "Ich habe Deutsch gelernt.", "ar": "لقد تعلمت الألمانية."},
+            {"de": "Er ist nach Berlin gefahren.", "ar": "لقد سافر إلى برلين."}
+        ],
+        "quiz": [
+            {"question": "Wir ____ gestern Fußball gespielt.", "options": ["haben", "sind", "hat", "waren"], "answer": "haben"}
+        ]
+    }
+]
+
+with open('lessons_a1.json', 'w', encoding='utf-8') as f:
+    json.dump(lessons, f, ensure_ascii=False, indent=2)
+
+print(f"✅ تم إنشاء منهج الدروس الكامل بنجاح! إجمالي الدروس: {len(lessons)}")

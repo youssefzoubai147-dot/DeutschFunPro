@@ -1,0 +1,1037 @@
+[
+  {
+    "id": 1,
+    "title": "Alphabet und Aussprache",
+    "title_ar": "الأبجدية ونطق الحروف المركبة",
+    "level": "A1",
+    "explanation": "شرح تفصيلي وقواعد درس الأبجدية ونطق الحروف المركبة لمستوى A1.",
+    "examples": [
+      {
+        "de": "Beispiel für Alphabet und Aussprache.",
+        "ar": "مثال توضيحي لدرس الأبجدية ونطق الحروف المركبة."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Alphabet und Aussprache?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Personalpronomen",
+    "title_ar": "الضمائر الشخصية وتصريف الأفعال العادية",
+    "level": "A1",
+    "explanation": "شرح تفصيلي وقواعد درس الضمائر الشخصية وتصريف الأفعال العادية لمستوى A1.",
+    "examples": [
+      {
+        "de": "Beispiel für Personalpronomen.",
+        "ar": "مثال توضيحي لدرس الضمائر الشخصية وتصريف الأفعال العادية."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Personalpronomen?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Bestimmter Artikel",
+    "title_ar": "أدوات التعريف (der, die, das)",
+    "level": "A1",
+    "explanation": "شرح تفصيلي وقواعد درس أدوات التعريف (der, die, das) لمستوى A1.",
+    "examples": [
+      {
+        "de": "Beispiel für Bestimmter Artikel.",
+        "ar": "مثال توضيحي لدرس أدوات التعريف (der, die, das)."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Bestimmter Artikel?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Unbestimmter & Negativartikel",
+    "title_ar": "أدوات النكرة والنفي (ein, kein)",
+    "level": "A1",
+    "explanation": "شرح تفصيلي وقواعد درس أدوات النكرة والنفي (ein, kein) لمستوى A1.",
+    "examples": [
+      {
+        "de": "Beispiel für Unbestimmter & Negativartikel.",
+        "ar": "مثال توضيحي لدرس أدوات النكرة والنفي (ein, kein)."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Unbestimmter & Negativartikel?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Verb sein und haben",
+    "title_ar": "تصريف أفعال الكينونة والملكية",
+    "level": "A1",
+    "explanation": "شرح تفصيلي وقواعد درس تصريف أفعال الكينونة والملكية لمستوى A1.",
+    "examples": [
+      {
+        "de": "Beispiel für Verb sein und haben.",
+        "ar": "مثال توضيحي لدرس تصريف أفعال الكينونة والملكية."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Verb sein und haben?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "W-Fragen und Ja/Nein-Fragen",
+    "title_ar": "صياغة الأسئلة المباشرة وغير المباشرة",
+    "level": "A1",
+    "explanation": "شرح تفصيلي وقواعد درس صياغة الأسئلة المباشرة وغير المباشرة لمستوى A1.",
+    "examples": [
+      {
+        "de": "Beispiel für W-Fragen und Ja/Nein-Fragen.",
+        "ar": "مثال توضيحي لدرس صياغة الأسئلة المباشرة وغير المباشرة."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu W-Fragen und Ja/Nein-Fragen?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Pluralformen",
+    "title_ar": "قواعد وقوانين جمع الأسماء",
+    "level": "A1",
+    "explanation": "شرح تفصيلي وقواعد درس قواعد وقوانين جمع الأسماء لمستوى A1.",
+    "examples": [
+      {
+        "de": "Beispiel für Pluralformen.",
+        "ar": "مثال توضيحي لدرس قواعد وقوانين جمع الأسماء."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Pluralformen?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Akkusativ Kasus",
+    "title_ar": "حالة النصب والمفعول به",
+    "level": "A1",
+    "explanation": "شرح تفصيلي وقواعد درس حالة النصب والمفعول به لمستوى A1.",
+    "examples": [
+      {
+        "de": "Beispiel für Akkusativ Kasus.",
+        "ar": "مثال توضيحي لدرس حالة النصب والمفعول به."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Akkusativ Kasus?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Modalverben (können, müssen)",
+    "title_ar": "الأفعال الناقصة الجزء الأول",
+    "level": "A1",
+    "explanation": "شرح تفصيلي وقواعد درس الأفعال الناقصة الجزء الأول لمستوى A1.",
+    "examples": [
+      {
+        "de": "Beispiel für Modalverben (können, müssen).",
+        "ar": "مثال توضيحي لدرس الأفعال الناقصة الجزء الأول."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Modalverben (können, müssen)?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Modalverben (wollen, möchten)",
+    "title_ar": "الأفعال الناقصة الجزء الثاني",
+    "level": "A1",
+    "explanation": "شرح تفصيلي وقواعد درس الأفعال الناقصة الجزء الثاني لمستوى A1.",
+    "examples": [
+      {
+        "de": "Beispiel für Modalverben (wollen, möchten).",
+        "ar": "مثال توضيحي لدرس الأفعال الناقصة الجزء الثاني."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Modalverben (wollen, möchten)?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Possessivartikel",
+    "title_ar": "أدوات الملكية (mein, dein...)",
+    "level": "A1",
+    "explanation": "شرح تفصيلي وقواعد درس أدوات الملكية (mein, dein...) لمستوى A1.",
+    "examples": [
+      {
+        "de": "Beispiel für Possessivartikel.",
+        "ar": "مثال توضيحي لدرس أدوات الملكية (mein, dein...)."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Possessivartikel?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Imperativ",
+    "title_ar": "صيغة الأمر والتوجيهات",
+    "level": "A1",
+    "explanation": "شرح تفصيلي وقواعد درس صيغة الأمر والتوجيهات لمستوى A1.",
+    "examples": [
+      {
+        "de": "Beispiel für Imperativ.",
+        "ar": "مثال توضيحي لدرس صيغة الأمر والتوجيهات."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Imperativ?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Präpositionen mit Akkusativ",
+    "title_ar": "حروف الجر مع حالة النصب",
+    "level": "A1",
+    "explanation": "شرح تفصيلي وقواعد درس حروف الجر مع حالة النصب لمستوى A1.",
+    "examples": [
+      {
+        "de": "Beispiel für Präpositionen mit Akkusativ.",
+        "ar": "مثال توضيحي لدرس حروف الجر مع حالة النصب."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Präpositionen mit Akkusativ?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Zahlen und Uhrzeit",
+    "title_ar": "الأرقام وقراءة الساعة والتاريخ",
+    "level": "A1",
+    "explanation": "شرح تفصيلي وقواعد درس الأرقام وقراءة الساعة والتاريخ لمستوى A1.",
+    "examples": [
+      {
+        "de": "Beispiel für Zahlen und Uhrzeit.",
+        "ar": "مثال توضيحي لدرس الأرقام وقراءة الساعة والتاريخ."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Zahlen und Uhrzeit?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Perfekt Grundlagen",
+    "title_ar": "مقدمة للماضي التام مع haben",
+    "level": "A1",
+    "explanation": "شرح تفصيلي وقواعد درس مقدمة للماضي التام مع haben لمستوى A1.",
+    "examples": [
+      {
+        "de": "Beispiel für Perfekt Grundlagen.",
+        "ar": "مثال توضيحي لدرس مقدمة للماضي التام مع haben."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Perfekt Grundlagen?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Dativ Kasus",
+    "title_ar": "حالة المجرور Dativ",
+    "level": "A2",
+    "explanation": "شرح تفصيلي وقواعد درس حالة المجرور Dativ لمستوى A2.",
+    "examples": [
+      {
+        "de": "Beispiel für Dativ Kasus.",
+        "ar": "مثال توضيحي لدرس حالة المجرور Dativ."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Dativ Kasus?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Präpositionen mit Dativ",
+    "title_ar": "حروف الجر التي تأخذ Dativ دائماً",
+    "level": "A2",
+    "explanation": "شرح تفصيلي وقواعد درس حروف الجر التي تأخذ Dativ دائماً لمستوى A2.",
+    "examples": [
+      {
+        "de": "Beispiel für Präpositionen mit Dativ.",
+        "ar": "مثال توضيحي لدرس حروف الجر التي تأخذ Dativ دائماً."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Präpositionen mit Dativ?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Wechselpräpositionen",
+    "title_ar": "حروف الجر المشتركة بين Dativ و Akkusativ",
+    "level": "A2",
+    "explanation": "شرح تفصيلي وقواعد درس حروف الجر المشتركة بين Dativ و Akkusativ لمستوى A2.",
+    "examples": [
+      {
+        "de": "Beispiel für Wechselpräpositionen.",
+        "ar": "مثال توضيحي لدرس حروف الجر المشتركة بين Dativ و Akkusativ."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Wechselpräpositionen?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Trennbare und Untrennbare Verben",
+    "title_ar": "الأفعال المنفصلة وغير المنفصلة",
+    "level": "A2",
+    "explanation": "شرح تفصيلي وقواعد درس الأفعال المنفصلة وغير المنفصلة لمستوى A2.",
+    "examples": [
+      {
+        "de": "Beispiel für Trennbare und Untrennbare Verben.",
+        "ar": "مثال توضيحي لدرس الأفعال المنفصلة وغير المنفصلة."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Trennbare und Untrennbare Verben?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Perfekt mit sein",
+    "title_ar": "الماضي التام مع أفعال الحركة (sein)",
+    "level": "A2",
+    "explanation": "شرح تفصيلي وقواعد درس الماضي التام مع أفعال الحركة (sein) لمستوى A2.",
+    "examples": [
+      {
+        "de": "Beispiel für Perfekt mit sein.",
+        "ar": "مثال توضيحي لدرس الماضي التام مع أفعال الحركة (sein)."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Perfekt mit sein?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Präteritum (war, hatte)",
+    "title_ar": "الماضي البسيط للأفعال المساعدة",
+    "level": "A2",
+    "explanation": "شرح تفصيلي وقواعد درس الماضي البسيط للأفعال المساعدة لمستوى A2.",
+    "examples": [
+      {
+        "de": "Beispiel für Präteritum (war, hatte).",
+        "ar": "مثال توضيحي لدرس الماضي البسيط للأفعال المساعدة."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Präteritum (war, hatte)?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Reflexive Verben",
+    "title_ar": "الأفعال المنعكسة وضمائرها",
+    "level": "A2",
+    "explanation": "شرح تفصيلي وقواعد درس الأفعال المنعكسة وضمائرها لمستوى A2.",
+    "examples": [
+      {
+        "de": "Beispiel für Reflexive Verben.",
+        "ar": "مثال توضيحي لدرس الأفعال المنعكسة وضمائرها."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Reflexive Verben?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Nebensätze (weil, dass)",
+    "title_ar": "الجمل الجانبية مع لأن وأن",
+    "level": "A2",
+    "explanation": "شرح تفصيلي وقواعد درس الجمل الجانبية مع لأن وأن لمستوى A2.",
+    "examples": [
+      {
+        "de": "Beispiel für Nebensätze (weil, dass).",
+        "ar": "مثال توضيحي لدرس الجمل الجانبية مع لأن وأن."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Nebensätze (weil, dass)?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Nebensätze (wenn, ob)",
+    "title_ar": "الجمل الشرطية وأسئلة الشك",
+    "level": "A2",
+    "explanation": "شرح تفصيلي وقواعد درس الجمل الشرطية وأسئلة الشك لمستوى A2.",
+    "examples": [
+      {
+        "de": "Beispiel für Nebensätze (wenn, ob).",
+        "ar": "مثال توضيحي لدرس الجمل الشرطية وأسئلة الشك."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Nebensätze (wenn, ob)?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Komparativ und Superlativ",
+    "title_ar": "درجات المقارنة والتفضيل للمقارنات",
+    "level": "A2",
+    "explanation": "شرح تفصيلي وقواعد درس درجات المقارنة والتفضيل للمقارنات لمستوى A2.",
+    "examples": [
+      {
+        "de": "Beispiel für Komparativ und Superlativ.",
+        "ar": "مثال توضيحي لدرس درجات المقارنة والتفضيل للمقارنات."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Komparativ und Superlativ?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Adjektivdeklination (Bestimmt)",
+    "title_ar": "إعراب الصفات بعد أدوات التعريف",
+    "level": "A2",
+    "explanation": "شرح تفصيلي وقواعد درس إعراب الصفات بعد أدوات التعريف لمستوى A2.",
+    "examples": [
+      {
+        "de": "Beispiel für Adjektivdeklination (Bestimmt).",
+        "ar": "مثال توضيحي لدرس إعراب الصفات بعد أدوات التعريف."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Adjektivdeklination (Bestimmt)?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Adjektivdeklination (Unbestimmt)",
+    "title_ar": "إعراب الصفات بعد أدوات النكرة",
+    "level": "A2",
+    "explanation": "شرح تفصيلي وقواعد درس إعراب الصفات بعد أدوات النكرة لمستوى A2.",
+    "examples": [
+      {
+        "de": "Beispiel für Adjektivdeklination (Unbestimmt).",
+        "ar": "مثال توضيحي لدرس إعراب الصفات بعد أدوات النكرة."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Adjektivdeklination (Unbestimmt)?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Verben mit Dativ und Akkusativ",
+    "title_ar": "أفعال تاخذ مفعولين (مجرور ونصب)",
+    "level": "A2",
+    "explanation": "شرح تفصيلي وقواعد درس أفعال تاخذ مفعولين (مجرور ونصب) لمستوى A2.",
+    "examples": [
+      {
+        "de": "Beispiel für Verben mit Dativ und Akkusativ.",
+        "ar": "مثال توضيحي لدرس أفعال تاخذ مفعولين (مجرور ونصب)."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Verben mit Dativ und Akkusativ?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Demonstrativpronomen",
+    "title_ar": "أسماء الإشارة (dieser, jede...)",
+    "level": "A2",
+    "explanation": "شرح تفصيلي وقواعد درس أسماء الإشارة (dieser, jede...) لمستوى A2.",
+    "examples": [
+      {
+        "de": "Beispiel für Demonstrativpronomen.",
+        "ar": "مثال توضيحي لدرس أسماء الإشارة (dieser, jede...)."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Demonstrativpronomen?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Infinitiv mit zu",
+    "title_ar": "المصدر مع zu والجمل التوضيحية",
+    "level": "A2",
+    "explanation": "شرح تفصيلي وقواعد درس المصدر مع zu والجمل التوضيحية لمستوى A2.",
+    "examples": [
+      {
+        "de": "Beispiel für Infinitiv mit zu.",
+        "ar": "مثال توضيحي لدرس المصدر مع zu والجمل التوضيحية."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Infinitiv mit zu?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Passiv Präsens",
+    "title_ar": "المبني للمجهول في الحاضر",
+    "level": "B1",
+    "explanation": "شرح تفصيلي وقواعد درس المبني للمجهول في الحاضر لمستوى B1.",
+    "examples": [
+      {
+        "de": "Beispiel für Passiv Präsens.",
+        "ar": "مثال توضيحي لدرس المبني للمجهول في الحاضر."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Passiv Präsens?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Passiv Präteritum",
+    "title_ar": "المبني للمجهول في الماضي البسيط",
+    "level": "B1",
+    "explanation": "شرح تفصيلي وقواعد درس المبني للمجهول في الماضي البسيط لمستوى B1.",
+    "examples": [
+      {
+        "de": "Beispiel für Passiv Präteritum.",
+        "ar": "مثال توضيحي لدرس المبني للمجهول في الماضي البسيط."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Passiv Präteritum?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Konjunktiv II (Wünsche)",
+    "title_ar": "صيغة التمني والافتراض المتقدمة",
+    "level": "B1",
+    "explanation": "شرح تفصيلي وقواعد درس صيغة التمني والافتراض المتقدمة لمستوى B1.",
+    "examples": [
+      {
+        "de": "Beispiel für Konjunktiv II (Wünsche).",
+        "ar": "مثال توضيحي لدرس صيغة التمني والافتراض المتقدمة."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Konjunktiv II (Wünsche)?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Konjunktiv II (Höflichkeit)",
+    "title_ar": "استخدامات الطلب المهذب جداً",
+    "level": "B1",
+    "explanation": "شرح تفصيلي وقواعد درس استخدامات الطلب المهذب جداً لمستوى B1.",
+    "examples": [
+      {
+        "de": "Beispiel für Konjunktiv II (Höflichkeit).",
+        "ar": "مثال توضيحي لدرس استخدامات الطلب المهذب جداً."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Konjunktiv II (Höflichkeit)?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Genitiv Kasus",
+    "title_ar": "حالة المضاف إليه Genitiv وقواعدها",
+    "level": "B1",
+    "explanation": "شرح تفصيلي وقواعد درس حالة المضاف إليه Genitiv وقواعدها لمستوى B1.",
+    "examples": [
+      {
+        "de": "Beispiel für Genitiv Kasus.",
+        "ar": "مثال توضيحي لدرس حالة المضاف إليه Genitiv وقواعدها."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Genitiv Kasus?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Präpositionen mit Genitiv",
+    "title_ar": "حروف الجر المتقدمة مع المضاف إليه (wegen, trotz)",
+    "level": "B1",
+    "explanation": "شرح تفصيلي وقواعد درس حروف الجر المتقدمة مع المضاف إليه (wegen, trotz) لمستوى B1.",
+    "examples": [
+      {
+        "de": "Beispiel für Präpositionen mit Genitiv.",
+        "ar": "مثال توضيحي لدرس حروف الجر المتقدمة مع المضاف إليه (wegen, trotz)."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Präpositionen mit Genitiv?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Relativsätze im Nominativ & Akkusativ",
+    "title_ar": "جمل الوصل في الرفع والنصب",
+    "level": "B1",
+    "explanation": "شرح تفصيلي وقواعد درس جمل الوصل في الرفع والنصب لمستوى B1.",
+    "examples": [
+      {
+        "de": "Beispiel für Relativsätze im Nominativ & Akkusativ.",
+        "ar": "مثال توضيحي لدرس جمل الوصل في الرفع والنصب."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Relativsätze im Nominativ & Akkusativ?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Relativsätze im Dativ & Genitiv",
+    "title_ar": "جمل الوصل في المجرور والمضاف إليه",
+    "level": "B1",
+    "explanation": "شرح تفصيلي وقواعد درس جمل الوصل في المجرور والمضاف إليه لمستوى B1.",
+    "examples": [
+      {
+        "de": "Beispiel für Relativsätze im Dativ & Genitiv.",
+        "ar": "مثال توضيحي لدرس جمل الوصل في المجرور والمضاف إليه."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Relativsätze im Dativ & Genitiv?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "title": "N-Deklination",
+    "title_ar": "إعراب الأسماء الضعيفة المذكرة",
+    "level": "B1",
+    "explanation": "شرح تفصيلي وقواعد درس إعراب الأسماء الضعيفة المذكرة لمستوى B1.",
+    "examples": [
+      {
+        "de": "Beispiel für N-Deklination.",
+        "ar": "مثال توضيحي لدرس إعراب الأسماء الضعيفة المذكرة."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu N-Deklination?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Zweiteilige Konnektoren",
+    "title_ar": "الروابط المزدوجة (zwar... aber, sowohl... als auch)",
+    "level": "B1",
+    "explanation": "شرح تفصيلي وقواعد درس الروابط المزدوجة (zwar... aber, sowohl... als auch) لمستوى B1.",
+    "examples": [
+      {
+        "de": "Beispiel für Zweiteilige Konnektoren.",
+        "ar": "مثال توضيحي لدرس الروابط المزدوجة (zwar... aber, sowohl... als auch)."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Zweiteilige Konnektoren?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Partizip I und II als Adjektiv",
+    "title_ar": "تحويل اسم الفاعل والمفعول إلى صفات",
+    "level": "B1",
+    "explanation": "شرح تفصيلي وقواعد درس تحويل اسم الفاعل والمفعول إلى صفات لمستوى B1.",
+    "examples": [
+      {
+        "de": "Beispiel für Partizip I und II als Adjektiv.",
+        "ar": "مثال توضيحي لدرس تحويل اسم الفاعل والمفعول إلى صفات."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Partizip I und II als Adjektiv?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Futur I",
+    "title_ar": "زمن المستقبل والتعبير عن التوقعات",
+    "level": "B1",
+    "explanation": "شرح تفصيلي وقواعد درس زمن المستقبل والتعبير عن التوقعات لمستوى B1.",
+    "examples": [
+      {
+        "de": "Beispiel für Futur I.",
+        "ar": "مثال توضيحي لدرس زمن المستقبل والتعبير عن التوقعات."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Futur I?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Verben mit Präpositionen",
+    "title_ar": "الأفعال المرتبطة بحروف جر ثابتة",
+    "level": "B1",
+    "explanation": "شرح تفصيلي وقواعد درس الأفعال المرتبطة بحروف جر ثابتة لمستوى B1.",
+    "examples": [
+      {
+        "de": "Beispiel für Verben mit Präpositionen.",
+        "ar": "مثال توضيحي لدرس الأفعال المرتبطة بحروف جر ثابتة."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Verben mit Präpositionen?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Pronominaladverbien (dafür, worüber)",
+    "title_ar": "الضمائر الظرفية والاستفهامية",
+    "level": "B1",
+    "explanation": "شرح تفصيلي وقواعد درس الضمائر الظرفية والاستفهامية لمستوى B1.",
+    "examples": [
+      {
+        "de": "Beispiel für Pronominaladverbien (dafür, worüber).",
+        "ar": "مثال توضيحي لدرس الضمائر الظرفية والاستفهامية."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Pronominaladverbien (dafür, worüber)?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Plusquamperfekt",
+    "title_ar": "الماضي الأسبق والتتابع الزمني للأحداث",
+    "level": "B1",
+    "explanation": "شرح تفصيلي وقواعد درس الماضي الأسبق والتتابع الزمني للأحداث لمستوى B1.",
+    "examples": [
+      {
+        "de": "Beispiel für Plusquamperfekt.",
+        "ar": "مثال توضيحي لدرس الماضي الأسبق والتتابع الزمني للأحداث."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Frage zu Plusquamperfekt?",
+        "options": [
+          "Option A",
+          "Option B"
+        ],
+        "answer": "Option A"
+      }
+    ]
+  }
+]
