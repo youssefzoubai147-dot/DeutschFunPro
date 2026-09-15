@@ -5,10 +5,8 @@ package.domain = org.youssef
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,json
 version = 1.0
-requirements = python3,kivy,kivymd
+requirements = python3,kivy==2.3.0,kivymd==1.2.0
 orientation = portrait
-osx.python_version = 3
-osx.kivy_version = 1.9.1
 fullscreen = 0
 android.permissions = INTERNET
 android.api = 33
